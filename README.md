@@ -1,5 +1,6 @@
 <div align='center'>
-	<!-- header -->
+
+  <!-- header -->	
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=180&text=sonnnnhe%27s%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling)
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/sonnnnhe"
@@ -8,6 +9,7 @@
     />
   </a>
 
+  <!-- footer -->
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=150&section=footer)
 
 </div>
